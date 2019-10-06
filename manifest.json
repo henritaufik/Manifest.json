@@ -1,0 +1,24 @@
+{
+  "name": "Onmaibana.com",
+  "short_name": "ONMAIBANA",
+  "start_url": "https://www.onmaibana.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Blog Berbagi Informasi dan Pengetahuan",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-Dh8GMOYK7XI/XZoOMjNm0vI/AAAAAAAABYI/70UTp6lG4vEdEifRNfHQ9voYNlgWo_SFwCLcBGAsYHQ/s48/Onmaibana.jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Dh8GMOYK7XI/XZoOMjNm0vI/AAAAAAAABYI/70UTp6lG4vEdEifRNfHQ9voYNlgWo_SFwCLcBGAsYHQ/s72/Onmaibana.jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Dh8GMOYK7XI/XZoOMjNm0vI/AAAAAAAABYI/70UTp6lG4vEdEifRNfHQ9voYNlgWo_SFwCLcBGAsYHQ/s96/Onmaibana.jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Dh8GMOYK7XI/XZoOMjNm0vI/AAAAAAAABYI/70UTp6lG4vEdEifRNfHQ9voYNlgWo_SFwCLcBGAsYHQ/s144/Onmaibana.jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Dh8GMOYK7XI/XZoOMjNm0vI/AAAAAAAABYI/70UTp6lG4vEdEifRNfHQ9voYNlgWo_SFwCLcBGAsYHQ/s168/Onmaibana.jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Dh8GMOYK7XI/XZoOMjNm0vI/AAAAAAAABYI/70UTp6lG4vEdEifRNfHQ9voYNlgWo_SFwCLcBGAsYHQ/s192/Onmaibana.jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Dh8GMOYK7XI/XZoOMjNm0vI/AAAAAAAABYI/70UTp6lG4vEdEifRNfHQ9voYNlgWo_SFwCLcBGAsYHQ/s512/Onmaibana.jpg"
+  }]
+}
