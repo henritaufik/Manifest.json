@@ -1,24 +1,38 @@
 {
   "name": "Onmaibana.com",
-  "short_name": "ONMAIBANA",
+  "short_name": "Onmaibana",
   "start_url": "https://www.onmaibana.com/",
   "display": "standalone",
   "background_color": "#fff",
-  "theme_color": "#2B0C93",
-  "description": "Blog Berbagi Informasi dan Pengetahuan",
+  "theme_color": "#C51162",
+  "description": "Blog Yang Menyediakan Berbagai Informasi dan Pengetahuan",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/-Dh8GMOYK7XI/XZoOMjNm0vI/AAAAAAAABYI/70UTp6lG4vEdEifRNfHQ9voYNlgWo_SFwCLcBGAsYHQ/s48/Onmaibana.jpg"
+    "src": "https://1.bp.blogspot.com/-Dh8GMOYK7XI/XZoOMjNm0vI/AAAAAAAABYI/70UTp6lG4vEdEifRNfHQ9voYNlgWo_SFwCLcBGAsYHQ/s48/Onmaibana.jpg",
+    "sizes": "48x48",
+    "type": "image/jpg"
   }, {
-    "src": "https://1.bp.blogspot.com/-Dh8GMOYK7XI/XZoOMjNm0vI/AAAAAAAABYI/70UTp6lG4vEdEifRNfHQ9voYNlgWo_SFwCLcBGAsYHQ/s72/Onmaibana.jpg"
+    "src": "https://1.bp.blogspot.com/-Dh8GMOYK7XI/XZoOMjNm0vI/AAAAAAAABYI/70UTp6lG4vEdEifRNfHQ9voYNlgWo_SFwCLcBGAsYHQ/s72/Onmaibana.jpg",
+    "sizes": "72x72",
+    "type": "image/jpg"
   }, {
-    "src": "https://1.bp.blogspot.com/-Dh8GMOYK7XI/XZoOMjNm0vI/AAAAAAAABYI/70UTp6lG4vEdEifRNfHQ9voYNlgWo_SFwCLcBGAsYHQ/s96/Onmaibana.jpg"
+    "src": "https://1.bp.blogspot.com/-Dh8GMOYK7XI/XZoOMjNm0vI/AAAAAAAABYI/70UTp6lG4vEdEifRNfHQ9voYNlgWo_SFwCLcBGAsYHQ/s96/Onmaibana.jpg",
+    "sizes": "96x96",
+    "type": "image/jpg"
   }, {
-    "src": "https://1.bp.blogspot.com/-Dh8GMOYK7XI/XZoOMjNm0vI/AAAAAAAABYI/70UTp6lG4vEdEifRNfHQ9voYNlgWo_SFwCLcBGAsYHQ/s144/Onmaibana.jpg"
+    "src": "https://1.bp.blogspot.com/-Dh8GMOYK7XI/XZoOMjNm0vI/AAAAAAAABYI/70UTp6lG4vEdEifRNfHQ9voYNlgWo_SFwCLcBGAsYHQ/s144/Onmaibana.jpg",
+    "sizes": "144x144",
+    "type": "image/jpg"
   }, {
-    "src": "https://1.bp.blogspot.com/-Dh8GMOYK7XI/XZoOMjNm0vI/AAAAAAAABYI/70UTp6lG4vEdEifRNfHQ9voYNlgWo_SFwCLcBGAsYHQ/s168/Onmaibana.jpg"
+    "src": "https://1.bp.blogspot.com/-Dh8GMOYK7XI/XZoOMjNm0vI/AAAAAAAABYI/70UTp6lG4vEdEifRNfHQ9voYNlgWo_SFwCLcBGAsYHQ/s168/Onmaibana.jpg",
+    "sizes": "168x168",
+    "type": "image/jpg"
   }, {
-    "src": "https://1.bp.blogspot.com/-Dh8GMOYK7XI/XZoOMjNm0vI/AAAAAAAABYI/70UTp6lG4vEdEifRNfHQ9voYNlgWo_SFwCLcBGAsYHQ/s192/Onmaibana.jpg"
+    "src": "https://1.bp.blogspot.com/-Dh8GMOYK7XI/XZoOMjNm0vI/AAAAAAAABYI/70UTp6lG4vEdEifRNfHQ9voYNlgWo_SFwCLcBGAsYHQ/s192/Onmaibana.jpg",
+    "sizes": "192x192",
+    "type": "image/jpg"
   }, {
-    "src": "https://1.bp.blogspot.com/-Dh8GMOYK7XI/XZoOMjNm0vI/AAAAAAAABYI/70UTp6lG4vEdEifRNfHQ9voYNlgWo_SFwCLcBGAsYHQ/s512/Onmaibana.jpg"
+    "src": "https://1.bp.blogspot.com/-Dh8GMOYK7XI/XZoOMjNm0vI/AAAAAAAABYI/70UTp6lG4vEdEifRNfHQ9voYNlgWo_SFwCLcBGAsYHQ/s512/Onmaibana.jpg",
+    "sizes": "512x512",
+    "type": "image/jpg"
   }]
 }
